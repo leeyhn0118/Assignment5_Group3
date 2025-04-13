@@ -13,11 +13,6 @@ This web application, developed by Group 3, provides a summary and analysis of a
 - Includes loading indicators during processing and handles potential errors gracefully.
 - Responsive design using react-bootstrap components.
 
-## Screenshot
-
-![Application Screenshot](image_71fc3d.png)
-_(Note: This assumes `image_71fc3d.png` is in the project's root directory)_
-
 ## Technologies Used
 
 - **Backend:**
@@ -32,49 +27,8 @@ _(Note: This assumes `image_71fc3d.png` is in the project's root directory)_
   - react-bootstrap
   - Bootstrap 5 CSS
 - **Language:** JavaScript (ES Modules for backend, JSX for frontend)
-
-## Project Structure
 
 Okay, here is a comprehensive README.md file for your project, incorporating details about the backend, frontend, setup, and usage. You can create a new file named README.md in the root directory of your Group3Lab5 project and paste the content below into it.
-
-Note: Make sure to place the image_71fc3d.png file in the same root directory as this README.md file for the screenshot to display correctly, or adjust the image path in the Markdown if you place it elsewhere (e.g., in an assets folder).
-
-Markdown
-
-# Group 3 - Article Summarizer & Analyzer
-
-## Description
-
-This web application, developed by Group 3, provides a summary and analysis of a predefined text article. It features a Node.js backend that uses the Google Gemini large language model via the LangchainJS library to generate content. The frontend is built with React (using Vite) and styled with react-bootstrap, offering a clean and responsive user interface.
-
-## Features
-
-- Fetches text from a predefined article file (`backend/data/article2.txt`).
-- Connects to a backend API endpoint (`/summarize`).
-- Utilizes Google Gemini via LangchainJS for advanced text summarization and analysis.
-- Displays results clearly in a modern web interface.
-- Includes loading indicators during processing and handles potential errors gracefully.
-- Responsive design using react-bootstrap components.
-
-## Screenshot
-
-![Application Screenshot](image_71fc3d.png)
-_(Note: This assumes `image_71fc3d.png` is in the project's root directory)_
-
-## Technologies Used
-
-- **Backend:**
-  - Node.js (v18+)
-  - Express.js
-  - LangchainJS (`@langchain/google-genai`)
-  - Google Gemini API (`gemini-1.5-flash` model)
-  - `dotenv` for environment variable management
-- **Frontend:**
-  - React 19
-  - Vite
-  - react-bootstrap
-  - Bootstrap 5 CSS
-- **Language:** JavaScript (ES Modules for backend, JSX for frontend)
 
 ## Project Structure
 
@@ -82,14 +36,12 @@ Group3Lab5/
 ├── backend/
 │ ├── data/
 │ │ └── article2.txt # The article to be summarized
-│ ├── node_modules/
 │ ├── generator.js # Contains logic for Langchain/Gemini interaction
 │ ├── server.js # Express.js API server
 │ ├── package.json
 │ ├── package-lock.json
 │ └── .env # <-- User must create this for API Key
 └── frontend/
-│ ├── node_modules/
 │ ├── public/
 │ ├── src/
 │ │ ├── App.jsx # Main React UI Component
@@ -116,11 +68,9 @@ Before you begin, ensure you have the following installed:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone <your-repository-url>
+    git clone <Assignment5_Group3>
     cd Group3Lab5
     ```
-
-    (Replace `<your-repository-url>` with the actual URL)
 
 2.  **Install Backend Dependencies:**
     Navigate to the backend directory and install the required packages.
@@ -169,7 +119,6 @@ You need to run both the backend and frontend servers concurrently in separate t
     - Run the command:
       ```bash
       npm run dev
-      # or: yarn dev
       ```
     - Vite will compile the application and provide a URL, typically `http://localhost:5173`. Open this URL in your browser.
 
