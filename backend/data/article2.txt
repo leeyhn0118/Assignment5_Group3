@@ -1,0 +1,104 @@
+The Large Energy Users Pledge was announced on March 12 at the CERAWeek energy conference in Houston, Texas. Big companies like Google, Amazon, and Meta have joined a pledge to triple nuclear energy use by 2050.
+
+These tech giants have teamed up with Dow, Allseas, OSGE, and Occidental to push for more nuclear power. This is the first time major businesses outside the nuclear sector have publicly supported such a big nuclear expansion.
+
+The pledge started in September 2023 and already has support from 31 countries, 14 major global banks, and 140 nuclear industry companies.
+
+Nuclear Energy: A Reliable and Scalable Solution
+Sama Bilbao y León, Director General of the World Nuclear Association (WNA), said,
+
+“The unprecedented support announced today by some of the world’s most influential companies to at least triple global nuclear capacity by 2050 sends a clear signal to accelerate policy, finance and regulatory changes that enable the rapid expansion of nuclear power. The global shift towards more nuclear highlights this is the only way we’ll deliver the abundant firm clean energy required to power growth and innovation in technology, a host of other industries and the entire economy.”
+
+The pledge highlights nuclear energy’s benefits like:
+
+Offering stable and reliable power 24/7.
+Not affected by weather conditions like wind or solar.
+Helps industries reduce costs and offers a steady supply of heat for factories and chemical plants.
+Other notable companies who have also joined the nuclear pledge are Allseas, Bureau Veritas, Carbon3Energy, Clean Energy Buyers Alliance, Core Power, Dow, Fly Green Alliance, Lloyd’s Register, Occidental, OSGE, and Siemens Energy.
+
+The WNA expects even more businesses to sign the pledge soon. Industries like maritime, aviation, chemicals, and hydrocarbons are showing more interest in nuclear energy.
+
+Dow Energy & Climate Business Vice President Edward Stones said,
+
+“Energy is the lifeblood of global manufacturing and therefore investing and expanding access to clean, reliable, cost-competitive nuclear energy is critical to industrial progress. Dow considers nuclear energy, especially the promising technology of advanced small modular nuclear, to be a long-term competitive source of safe, firm and clean energy.”
+
+The Large Energy Users Pledge
+The pledge highlights nuclear power’s role in energy security and economic growth. It calls for a stronger, more reliable energy system with nuclear alongside other clean energy sources.
+
+Here’s a snapshot of the pledge.
+
+nuclear pledge
+Data Source: World Nuclear Association
+Big energy users want to triple nuclear power by 2050 to meet rising energy needs and help economies grow. Their strategy also includes new reactors, including small modular reactors (SMRs) and advanced designs.
+
+How Is Nuclear Power Shaping Global Energy Consumption?
+Nuclear energy has been a critical part of the world’s power supply for decades. Today, it provides about 10% of global electricity, with over 400 reactors operating in more than 30 countries.
+
+Some countries, such as France, depend on nuclear power for over 70% of their electricity. The United States and China are also increasing their nuclear capacity. They want to rely less on fossil fuels.nuclear 
+
+Compared to fossil fuel plants, nuclear power plants operate at a higher capacity factor. This means they produce electricity more efficiently and consistently.
+
+While coal and natural gas plants may run at about 50–60% capacity, nuclear plants often reach 90% or higher. This makes nuclear energy one of the most reliable sources of electricity in the world.
+
+However, some countries are rethinking their nuclear investments. Germany, for example, closed its last nuclear plants in 2023. But now, rising energy costs and supply worries have sparked talks about restarting nuclear programs.
+
+nuclear energy global
+
+MUST READ: What Does the U.S. Need to Triple Its Nuclear Capacity by 2050? DOE Explains…
+Why Tech Giants Want to Invest in Nuclear?
+In 2023, nuclear power plants worldwide generated around 2,600 terawatt-hours (TWh) of electricity. As electricity demand continues to rise, countries are prioritizing nuclear energy as a reliable solution.
+
+Countries such as the USA and China are leading nuclear expansion efforts, with multiple reactors under construction. It’s for the same reason that big companies like Google, Meta, Microsoft, Amazon, and Oracle are making this shift toward nuclear to reach their net-zero goals.
+
+Explaining further, the growth of artificial intelligence (AI) is driving up energy use in data centers. Right now, they make up about 2% to 3% of total U.S. power consumption. This number could reach 9% by 2030. This rise is putting pressure on current power systems. As a result, tech giants are looking for new energy sources to meet their increasing demands.
+
+To tackle these challenges, they are looking at nuclear energy, especially small modular reactors. The SMRs can be placed near data centers, ensuring a steady energy supply and reducing environmental impact.
+
+More significantly, one of the biggest advantages of nuclear power is that it is a low-carbon energy source. Unlike coal and natural gas, nuclear reactors do not produce greenhouse gas emissions during operation.
+
+According to the International Energy Agency (IEA), nuclear energy prevents over 2 billion metric tons of CO2 emissions annually. This makes nuclear power an essential tool in the fight against climate change.
+Google’s SMR Investments
+Google is looking at nuclear energy to help meet its 2030 net-zero emissions goal, says CEO Sundar Pichai. The company is investing in clean energy, including solar and small modular nuclear reactors (SMRs).
+
+In 2023, Google’s greenhouse gas (GHG) emissions reached 14.3 million tCO2e. This was a 13% increase from the previous year and a 48% jump from 2019. Emissions have been rising since 2020.
+
+google emissions
+
+Thus, Google made a deal with Kairos Power in October 2025. They plan to build several SMRs to power AI data centers. The first reactor could be running this decade, depending on approvals. More reactors are expected by 2035. This move helps Google lower its carbon footprint while meeting the energy needs of its growing AI operations
+
+Meta Bets on Nuclear for Reliable Clean Energy
+Meta has been using 100% renewable energy for its global operations since 2020. Now, the company is exploring nuclear power to meet rising energy demands and support its AI and environmental goals.
+
+Meta’s Urvi Parekh, Head of Global Energy, noted,
+
+“As global economies expand, the need for a reliable, clean, and resilient energy supply is paramount. Nuclear energy, with its ability to provide continuous power, can help meet this rising demand. We’re excited to join alongside this multi-organisational effort with the Tripling Nuclear Pledge to reiterate our commitment to nuclear energy.”
+
+On December 3, Meta announced plans to work with nuclear power developers. The company believes that nuclear energy provides a steady power supply unlike solar and wind energy, making it crucial for grid stability and AI workloads.
+
+Since 2021, Meta has cut emissions by 16.4 million metric tons of CO2e through renewable energy. In 2023, its net emissions were 7.4 million metric tons.
+
+meta carbon emissions nuclear 
+Source: Meta
+In 2023 alone, the company’s renewable energy initiatives helped cut operational emissions by 5.1 MMTCO2e, while value chain emissions were reduced by 1.4 MMTCO2e. Thus, Meta is optimistic about hitting its net-zero target by adding nuclear energy to its clean energy portfolio.
+
+Amazon’s SMR Strategy
+Amazon is adding nuclear power to supply carbon-free energy to AWS data centers and is investing over $52 billion across three U.S. states as part of its massive data center expansion.
+
+The company has signed three key deals to explore and build small modular reactors (SMRs). AWS CEO Matt Garman believes SMRs can provide scalable and reliable power for growing data needs.
+
+In 2023, Amazon’s carbon footprint was nearly 69 million metric tons of CO2—lower than its 2021 peak but still significant.
+
+Amazon carbon emissions
+Source: Amazon
+AWS is working to reduce emissions, betting on SMRs. They hope nuclear could be a game changer, offering a sustainable energy source for the future.
+
+Amazon Web Services’ Brandon Oyer, Head of Americas Energy and Water, said,
+
+“Accelerating nuclear energy development will be critical to strengthening our nation’s security, meeting future energy demands, and addressing climate change. Amazon supports the World Nuclear Association’s pledge, and is proud to have invested more than USD1 billion over the last year in nuclear energy projects and technologies, which is part of our broader Climate Pledge commitment to be net-zero carbon by 2040.”
+
+Global Investment in Nuclear Energy: 2050 Forecast
+Notably, global investment in nuclear energy is set to rise. Right now, it’s about $65 billion each year. As per IEA, by 2030, it could hit $70 billion with current policies. Nuclear capacity is expected to grow by over 50% to nearly 650 GW by 2050.
+
+nuclear energy investment
+
+Amazon, Meta, Google, and other companies that have joined the pledge are aware that even with better energy use, industries will still need a lot more power. However, nuclear projects require high upfront costs, long development times, and strict regulations. Despite these challenges, their long lifespan and low carbon emissions make them a strong choice for long-term energy planning.
